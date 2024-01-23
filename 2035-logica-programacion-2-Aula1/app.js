@@ -13,6 +13,7 @@ function verificarIntento () {
         asignarTextoElemento('p', 'Acertaste al numero');
     }
     return;
+    // test git
 }
   
 function generaNumeroSecreto() {
